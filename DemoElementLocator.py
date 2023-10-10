@@ -16,7 +16,7 @@ driver.find_element(By.ID, "Password"). send_keys("Passw0rd1")
 driver.find_element(By.CSS_SELECTOR, "button[data-quid='sign-in-button']").click()
 time.sleep(5)
 
-
+# doesn't work now because of the initial pop up on homepage
 
 
 

@@ -16,5 +16,5 @@ driver.find_element(By.NAME, "btnK").click()
 
 
 time.sleep(5)
-driver.close()
-driver.quit()
+# driver.close()
+# driver.quit()

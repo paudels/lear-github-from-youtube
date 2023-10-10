@@ -13,5 +13,9 @@ driver.quit()
 
 
 
+# driver.get('https://www.dominos.com')
+# time.sleep(5)
+
+
 
 
